@@ -1,0 +1,13 @@
+======================================================================
+git clone /home/anuj/gitrepos/MyProject.git
+cd MyProject/
+git pull
+git log 
+git remote add GITHUB git@github.com:anujsharma12feb/UsefulScripts.git
+git fetch --all 
+git merge GITHUB/master
+(http://spin.atomicobject.com/2013/11/16/merge-git-repositories/)
+======================================================================
+http://gbayer.com/development/moving-files-from-one-git-repository-to-another-preserving-history/
+
+======================================================================
